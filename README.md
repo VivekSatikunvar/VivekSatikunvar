@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing web solutions.
 - 🎓 &nbsp; Studying Information Technology at Shri S'ad Vidya Mandal Institute Of Technology.
-- 💼 &nbsp; Working as Python and Django trainee at Silverwing Technologies Pvt Ltd.
+- 💼 &nbsp; Worked as Python and Django trainee at Silverwing Technologies Pvt Ltd.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Responsive Design and SPA.
 - ✍️ &nbsp; Pursuing ReactJS and React Native.
 
